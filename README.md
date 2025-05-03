@@ -23,8 +23,10 @@ With endless possible combinations, can you remember it all?
 
 ## Compilation & Execution 📲🎬
 Please type the following:
+```
 make
 ./memory_game
+```
 
 If you are using Windows, please download Ubuntu. 
 
@@ -69,6 +71,9 @@ At the end of the game, your high scores will be displayed.
 - To keep them, press **N** (no).
 
 Enjoy the game and test your memory skills!
+
+### File Input & Output Notice
+- If you have a presaved game, starting a new game and finishing it will automatically delete the saved game.
 
 # Features Implemented:
 
