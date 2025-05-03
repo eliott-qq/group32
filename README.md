@@ -29,17 +29,46 @@ make
 If you are using Windows, please download Ubuntu. 
 
 ## Step-by-Step Procedure: ▶️🎮
-1. Choose if you would like to load a saved game *Press R* (see step 3) or start a new game *Press N* (see step 2).
-2. If you wil start a new game then choose the difficulty level: *Press E* Easy, *Press M* Medium, *Press H* Hard, and *Press C* Custom.
 
-The game will start!
+### **Game Instructions**
 
-3. Input *row* then *column* for which fruit you would like revealed. Each section is mapped with the appropriate coordinates.
-4. Press *Press Enter* and repeat for the next.
-5. Once the pair has been revealed you may *Press Q* or *Press S* save and quit the game. If you choose to continue, *Press Enter*.
-6. Repeat until you have found all pairs.
-7. You will be able to see your high scores and have the option to delete them! *Press Y* for yes and *Press N* for no.
+#### **1. Start Your Game**
+When launching the game, you will be given two options:
+- **Load a saved game** – Press **R** (Move right to step 3 to start playing).
+- **Start a new game** – Press **N** (See step 2 for difficulty selection).
 
+#### **2. Select Difficulty Level**
+If you are starting a new game, choose your preferred difficulty level:
+- **Easy Mode** – Press **E** for a relaxed experience with fewer fruit pairs.
+- **Medium Mode** – Press **M** for a balanced challenge.
+- **Hard Mode** – Press **H** for an intense test of memory.
+- **Custom Mode** – Press **C** to configure your own difficulty settings.
+
+Once you have made your choice, the game will begin!
+
+#### **3. Gameplay – Finding Fruit Pairs**
+- Each section of the game board contains hidden fruit, mapped with coordinates (row and column).
+- To reveal a fruit, enter the row number followed by the column number.
+- Press **Enter** to confirm your selection and reveal the fruit.
+- Repeat the process to select a second fruit.
+- If the two revealed fruits match, they will be marked as a pair.
+- If they do not match, they will be hidden again, and you can try again.
+
+#### **4. Saving or Quitting the Game**
+After revealing a fruit pair, you can choose:
+- **Save & Quit** – Press **S** to save your progress and exit the game.
+- **Quit Without Saving** – Press **Q** to exit without saving.
+- **Continue Playing** – Press **Enter** to keep searching for pairs.
+
+Repeat these steps until all fruit pairs have been found!
+
+#### **5. Viewing and Managing High Scores**
+At the end of the game, your high scores will be displayed.
+- You will have the option to delete high scores if desired.
+- To delete your scores, press **Y** (yes).
+- To keep them, press **N** (no).
+
+Enjoy the game and test your memory skills!
 
 # Features Implemented:
 
